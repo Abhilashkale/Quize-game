@@ -1,4 +1,4 @@
-# Quize-game
+# Quize-game c language
 
 
 The "C Program Quiz Game" is a console-based quiz application designed to test the knowledge of participants in the C programming language. This mini project aims to provide an engaging and educational experience for users, allowing them to assess and enhance their understanding of C concepts while having fun. The project is implemented in C language and incorporates various features to create an interactive quiz environment.
